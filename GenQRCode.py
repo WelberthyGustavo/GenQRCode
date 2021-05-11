@@ -26,3 +26,5 @@ url.png("qr.png", scale=8)
 time.sleep(1)
 print("    _Finish QRCode_  ")
 
+
+#Development by Welberthy Gustavo 2021!
