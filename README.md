@@ -1,4 +1,4 @@
-# QR Code Generator
+# GenQRCode
 
 Generate QR codes from URLs using this simple Python script. This script uses the PyQRCode library to create QR codes that can be easily saved as images.
 
